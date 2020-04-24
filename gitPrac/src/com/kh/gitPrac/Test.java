@@ -16,5 +16,7 @@ public class Test {
 		System.out.println("六六六六六");
 		
 		System.out.println("釭 branch dev1檜撿");
+		
+		System.out.println("adsasd");
 	}
 }
