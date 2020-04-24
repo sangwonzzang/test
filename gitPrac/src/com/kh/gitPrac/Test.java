@@ -17,6 +17,7 @@ public class Test {
 		//しししししししししし
 		//いいいいいいいいいいいい
 		System.out.println("aaaaaaa");
+		System.out.println("bbbbbbbbbb");
 		
 	}
 }
