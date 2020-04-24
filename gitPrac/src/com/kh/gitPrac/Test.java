@@ -6,5 +6,6 @@ public class Test {
 	{
 		System.out.println("hello");
 		System.out.println("≥≠ ¡∂¿Â!!!");
+		System.out.println("111111");
 	}
 }
