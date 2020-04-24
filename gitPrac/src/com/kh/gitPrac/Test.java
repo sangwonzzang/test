@@ -19,5 +19,10 @@ public class Test {
 		System.out.println("aaaaaaa");
 		System.out.println("bbbbbbbbbb");
 		
+	
+		System.out.println("zzzz");
+
+		System.out.println("せせせせせ");
+
 	}
 }
