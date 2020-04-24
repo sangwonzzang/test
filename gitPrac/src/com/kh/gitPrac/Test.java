@@ -16,5 +16,7 @@ public class Test {
 		//sdfsdf
 		//しししししししししし
 		//いいいいいいいいいいいい
+		System.out.println("aaaaaaa");
+		
 	}
 }
